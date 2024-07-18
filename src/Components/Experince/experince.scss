@@ -1,0 +1,86 @@
+$main-green: #77fb38;
+$box-gray: rgb(64, 64, 64);
+
+#exp {
+  .nav-div {
+    padding-top: 5px;
+  }
+
+  .whole {
+    background-color: black;
+    height: 150vh;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  .edu {
+    background: $main-green;
+    border-radius: 20px;
+    font-size: 15px;
+    width: 650px;
+  }
+
+  .edu-title {
+    font-size: 25px;
+  }
+
+  .exp {
+    background: $main-green;
+    border-radius: 20px;
+    font-size: 18px;
+    width: 650px;
+  }
+  .exp-title {
+    font-size: 25px;
+  }
+
+.tech-exp-title{
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.tech-exp{
+  margin-top: 50px;
+  border: 3px solid $main-green;
+  border-radius: 15px;
+  width: 450px;
+  
+  flex-wrap: wrap;
+}
+
+.comp-logo-div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+
+  .skills-div {
+    color: white;
+  }
+
+  .skill-logo {
+    width: 50px;
+  }
+  .skill-logo-css {
+    width: 35px;
+  }
+  .skill-logo-js {
+    width: 40px;
+    // height: 50px;
+  }
+
+  .logo-div {
+    // flex-wrap: wrap;
+  }
+
+
+.text-test{
+  color: white;
+}
+
+
+
+
+}

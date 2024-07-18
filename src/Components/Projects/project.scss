@@ -1,0 +1,80 @@
+$main-green: #77fb38;
+$box-gray: rgb(64, 64, 64);
+
+
+
+#pro{
+
+
+    .nav-div {
+        padding-top: 5px;
+      }
+    
+      .whole {
+        background: linear-gradient(
+           
+            $main-green 0%,
+            $main-green 75%,
+            black 75%,
+            black 100%
+        );
+        height: 240vh;
+        font-weight: 600;
+        font-size: 14px;
+      }
+
+
+      .pro-title{
+        font-size: 30px;
+        font-weight: 700;
+        text-align: center;
+      }
+
+      .img1{
+        width: 400px;
+        height: 200px;
+      }
+
+      .img2{
+        width: 400px;
+        height: 200px;
+      
+      }
+
+      .img3{
+        width: 400px;
+        height: 200px;
+       
+      
+      }
+
+      .black-div{
+        color: white;
+      }
+
+      .link-title{
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+      .down-div{
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .cont-detiles{
+        color: white;
+        margin-top: 70px;
+      }
+
+      .down-black-div{
+        gap: 100px;
+      }
+
+      .cont{
+        font-size: 20px;
+        font-weight: 700;
+      }
+
+
+}
